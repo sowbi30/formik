@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('../public/bgselect.webp');
+  background-size: cover !important;
+  background-position: center !important;
+  opacity: 0.8;
 }
 
 code {
